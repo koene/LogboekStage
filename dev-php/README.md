@@ -1,4 +1,4 @@
 LogboekStage
 ============
 
-Logboek van Stage online
+Logboek van Stage online.
