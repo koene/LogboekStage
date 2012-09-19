@@ -25,7 +25,9 @@
 // Zend_Loader::loadClass('Zend_Filter_Imagesize_Strategy_Crop');
 
 // require whatever is located in app/lib (lib folder is in include_dir)
-
+foreach(glob($lib_directory . "phpmarkdown/*.php", GLOB_NOSORT) as $filename){
+	require_once($filename);
+}
 /**
  * Extra application config
  */

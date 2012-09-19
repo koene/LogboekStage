@@ -1,0 +1,10 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+header{background-color:#728c66;height:5%;top:5px;text-align:left;width:100%;padding-left:10px;position:absolute;left:0px;}header h1{font-size:18px;color:black;display:inline;background-color:#97c26e;}
+footer{background-color:#728c66;height:5%;bottom:5px;text-align:left;width:100%;padding-left:10px;position:absolute;left:0px;}footer h2{font-size:18px;color:black;display:inline;background-color:#97c26e;}
+#main{background-color:#353b36;border-top:1px dashed #97c26e;border-bottom:1px dashed #97c26e;color:#c2ff6e;position:absolute;top:5%;height:90%;width:100%;padding-left:10px;position:absolute;left:0px;}#main #left{width:20%;height:100%;float:left;border-right:1px dashed #97c26e;}#main #left h1{font-size:18px;color:black;display:inline;background-color:#97c26e;}
+#main #right{width:80%;height:100%;float:left;opacity:0.0;}#main #right h1{font-size:18px;color:black;display:inline;background-color:#97c26e;}
+#main #right hr{background-color:#97c26e;}
+#main #right #titleFile{margin-top:5px;margin-left:10px;}
+#main #right #contentFile{margin-top:5px;margin-left:10px;}#main #right #contentFile a{font-size:18px;color:black;display:inline;background-color:#97c26e;}
+#nieuwBtn{display:inline;float:right;background-color:#97c26e;color:black;margin-right:20px;margin-top:3px;border-radius:5px;width:100px;text-align:center;}#nieuwBtn:hover{background-color:#353b36;color:#c2ff6e;}
+#list{list-style-type:none;}#list li a{text-decoration:none;color:#c2ff6e;}#list li a:hover{text-decoration:underline;font-size:18px;}

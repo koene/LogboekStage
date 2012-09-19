@@ -7,7 +7,8 @@ dispatch('/', 'index');
 
 dispatch('/home', 'index'); // example
 
-dispatch(':page', 'pages'); // dispatch all other pages to pages controller. Easy for templating.
+dispatch('/:doc', 'open_doc');
+dispatch_post('/new', 'post_function'); 
 
 /**
  * This should be the last route definition
@@ -27,3 +28,4 @@ function before_route($route) {
 function after_route($output) {
   return $output;
 }
+
