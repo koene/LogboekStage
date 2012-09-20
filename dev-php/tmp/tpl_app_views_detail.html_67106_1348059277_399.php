@@ -1,6 +1,8 @@
       <div id="titleFile">
         <?php
-          echo $filename;
+          $filen = str_replace("_", " ", $filename);
+          $filen = str_replace("-", "/", $filen);
+          echo $filen;
         ?>
       </div><hr>
       <div id="contentFile">

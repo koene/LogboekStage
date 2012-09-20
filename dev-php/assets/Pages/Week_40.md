@@ -25,4 +25,4 @@ Of die bluetoothmuis van mij is? Ik zou het niet weten, maar de batterij was pla
 Vrijdag
 -------
 
-Volgens het weekschema heb ik nu 40u gewerkt, maar het voelt eigelijk alsof ik meer rondgedraaid heb op mijn stoel dan iets anders. Zou de fabrikant van dit ding het ook een hele stage getest hebben? Ik krijg precies wat last van mijn nek ook, beter eens naar die knappe van de boekhouding gaan. Of naar de dokter, kan ook...
+Volgens het weekschema heb ik nu 40u gewerkt, maar het voelt eigelijk alsof ik meer rondgedraaid heb op mijn stoel dan iets anders. Zou de fabrikant van dit ding het ook een hele stage getest hebben? Ik krijg precies wat last van mijn nek ook, beter eens naar die knappe van de boekhouding gaan. Of naar de dokter, kan ook... Zegt men

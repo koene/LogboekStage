@@ -10,8 +10,18 @@ function index_catchall() {
 
 function open_doc(){
 	$filename = params('doc');
+	$fileArray = explode(".", $filename);
 	if($filename == "new"){
 		return html('new.html.php');
+	}elseif($fileArray[2] == "edit"){
+		set('title', $fileArray[0]);
+		$content_van_file = file_get_contents('assets/Pages/' . $fileArray[0] . "." . $fileArray[1], true);
+		set('content_van_file', $content_van_file);
+		set('filename', $filename);
+		return html('edit.html.php');
+	}elseif($fileArray[2] == "delete"){
+		unlink('assets/Pages/' . $fileArray[0] . "." . $fileArray[1]);
+		return html('index.html.php');
 	}else{
 		set('filename', $filename);
 
@@ -29,6 +39,8 @@ function open_doc(){
 function post_function(){
 	$title = $_POST['title'];
 	$log = $_POST['log'];
+	$title = str_replace(" ", "_", $title);
+	$title = str_replace("/", "-", $title);
 
 	$fh = fopen('assets/Pages/' . $title . '.md', 'w+') or die("Can't create file");
 	fwrite($fh, $log);

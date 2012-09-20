@@ -14,7 +14,7 @@ I have a confession to make: Heb vandaag K-Pop bekeken en twee dezelfde sokken a
 Donderdag 
 --------- 
 
-Links gestemd gisteren. Of is het pas morgen stemmen? Dan hangt het van mij humeur af. Vraag mij wel af wiens pc-scherm ik in de gang dan volgekleurd heb.
+Links gestemd gisteren. Of is het pas morgen stemmen? Hangt van mij humeur af. Vraag mij wel af wiens pc-scherm ik in de gang dan volgekleurd heb. Hopelijk sturen ze niet weer mails rond...
 
 Vrijdag 
 ------- 
